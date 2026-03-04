@@ -35,6 +35,10 @@ vbnet-calculator
 2. Open `CalculatorVB.slnx` in Visual Studio
 3. Click **Run (▶)** to start the application
 
+<img width="802" height="491" alt="Screenshot 2026-03-04 112210" src="https://github.com/user-attachments/assets/fd4dbada-6399-4ed8-aca0-ca9d73cef3a3" />
+
+
+
 ## 👨‍💻 Author
 **Godwin Mathew**  
 MCA Student | Aspiring Software Developer
